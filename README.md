@@ -21,6 +21,6 @@
 ## [일정]
 |Week|Topic|Link|
 |------|------|------|
-|Week1|운영체제 1-1| [[1.1](#운영체제/1.1 운영체제란.md)](https://github.com/wonhyuna/CS_study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/1.1%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)https://github.com/wonhyuna/CS_study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/1.1%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md |
+|Week1|운영체제 1-1| [[1.1](#운영체제/1.1 운영체제란.md)](https://github.com/wonhyuna/CS_study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/1.1%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md) |
 |Week2| | |
 |Week3| | |
